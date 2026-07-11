@@ -36,4 +36,7 @@
 # a=b="pari";
 # print(a,b);
 
-print("Hello, World!")
+# print("Hello, World!")
+
+string = "pari";
+print (string)
