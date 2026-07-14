@@ -40,3 +40,6 @@
 
 string = "pari";
 print (string)
+
+string = "cool";
+print (string)
