@@ -38,8 +38,14 @@
 
 # print("Hello, World!")
 
-string = "pari";
-print (string)
+# string = "pari";
+# print (string)
 
-string = "cool";
-print (string)
+# string = "cool";
+# print (string)
+
+a, b, c = 5, 3.2, "Hello";
+# print(a)
+# print(b)
+# print(c)
+print(a, b, c)
