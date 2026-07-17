@@ -44,8 +44,11 @@
 # string = "cool";
 # print (string)
 
-a, b, c = 5, 3.2, "Hello";
+# a, b, c = 5, 3.2, "Hello";
 # print(a)
 # print(b)
 # print(c)
-print(a, b, c)
+# print(a, b, c)
+
+site_name = xite_name = "Pari"
+print (site_name, xite_name);
