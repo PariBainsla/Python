@@ -50,5 +50,11 @@
 # print(c)
 # print(a, b, c)
 
-site_name = xite_name = "Pari"
-print (site_name, xite_name);
+# site_name = xite_name = "Pari"
+# print (site_name, xite_name);
+
+int = 2;
+float = 2.7;
+num = int + float;
+# print(num);
+print (type(num));
