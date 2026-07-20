@@ -53,8 +53,14 @@
 # site_name = xite_name = "Pari"
 # print (site_name, xite_name);
 
-int = 2;
-float = 2.7;
-num = int + float;
-# print(num);
+# int = 2;
+# float = 2.7;
+# num = int + float;
+# # print(num);
+# print (type(num));
+
+int = "3";
+str = "12";
+num = int + str;
+print (num);
 print (type(num));
