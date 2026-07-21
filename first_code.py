@@ -59,8 +59,16 @@
 # # print(num);
 # print (type(num));
 
-int = "3";
-str = "12";
-num = int + str;
-print (num);
-print (type(num));
+# int = "3";
+# str = "12";
+# num = int + str;
+# print (num);
+# print (type(num));
+
+num = 3;
+str = "7";
+
+str = int(str);
+print(str);
+sum = num + str;
+print(sum);
