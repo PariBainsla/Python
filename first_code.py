@@ -65,10 +65,17 @@
 # print (num);
 # print (type(num));
 
-num = 3;
-str = "7";
+# num = 3;
+# str = "7";
 
-str = int(str);
-print(str);
-sum = num + str;
-print(sum);
+# str = int(str);
+# print(str);
+# sum = num + str;
+# print(sum);
+
+
+int = 4;
+float = 2.5;
+num = int + float;
+print(num);
+print(type(num));
