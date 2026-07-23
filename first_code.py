@@ -74,8 +74,15 @@
 # print(sum);
 
 
-int = 4;
-float = 2.5;
-num = int + float;
+# int = 4;
+# float = 2.5;
+# num = int + float;
+# print(num);
+# print(type(num));
+
+inti = 6;
+strr = '7';
+strr = int(strr);
+
+num = inti + strr;
 print(num);
-print(type(num));
