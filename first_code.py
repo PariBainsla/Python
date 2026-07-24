@@ -80,9 +80,11 @@
 # print(num);
 # print(type(num));
 
-inti = 6;
-strr = '7';
-strr = int(strr);
+# inti = 6;
+# strr = '7';
+# strr = int(strr);
 
-num = inti + strr;
-print(num);
+# num = inti + strr;
+# print(num);
+
+print("Pari is beautiful");
