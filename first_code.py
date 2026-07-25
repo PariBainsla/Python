@@ -87,4 +87,5 @@
 # num = inti + strr;
 # print(num);
 
-print("Pari is beautiful");
+print("Pari is beautiful", end= ' ') ;
+print("She is Powerful");
