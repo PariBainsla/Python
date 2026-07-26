@@ -87,5 +87,7 @@
 # num = inti + strr;
 # print(num);
 
-print("Pari is beautiful", end= ' ') ;
-print("She is Powerful");
+# print("Pari is beautiful", end= ' ') ;
+# print("She is Powerful");
+
+print("Pari", 24, "Dashing", sep=" 💕 ")
