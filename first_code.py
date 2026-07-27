@@ -90,4 +90,11 @@
 # print("Pari is beautiful", end= ' ') ;
 # print("She is Powerful");
 
-print("Pari", 24, "Dashing", sep=" 💕 ")
+# print("Pari", 24, "Dashing", sep=" 💕 ")
+
+num = 10;
+name = "paru";
+print(7);
+print("bainsla");
+print(num);
+print(name);
