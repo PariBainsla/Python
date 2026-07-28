@@ -92,9 +92,11 @@
 
 # print("Pari", 24, "Dashing", sep=" 💕 ")
 
-num = 10;
-name = "paru";
-print(7);
-print("bainsla");
-print(num);
-print(name);
+# num = 10;
+# name = "paru";
+# print(7);
+# print("bainsla");
+# print(num);
+# print(name);
+
+print('it is raining' + ' since morning')
