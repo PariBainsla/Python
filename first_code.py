@@ -101,8 +101,13 @@
 
 # print('it is raining' + ' since morning');
 
-x=5;
-y=10;
-print('The value of x is {} and y is {}'.format(x,y));
-print('{},{}'.format(x,y));
-print('{},{}'.format(y,x))
+# x=5;
+# y=10;
+# print('The value of x is {} and y is {}'.format(x,y));
+# print('{},{}'.format(x,y));
+# print('{},{}'.format(y,x))
+
+num = input('Enter a number: ');
+# num = int(input("Enter the number: "))
+print("You entered: ", num);
+print("type of data: ", type(num));
