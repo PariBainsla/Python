@@ -107,7 +107,7 @@
 # print('{},{}'.format(x,y));
 # print('{},{}'.format(y,x))
 
-# num = input('Enter a number: ');
+# num = input('Enter a number: ');    the input() function always reads user input as text
 num = int(input("Enter the number: "))
 print("You entered: ", num);
 print("type of data: ", type(num));
