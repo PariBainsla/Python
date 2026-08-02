@@ -108,6 +108,15 @@
 # print('{},{}'.format(y,x))
 
 # num = input('Enter a number: ');    the input() function always reads user input as text
-num = int(input("Enter the number: "))
-print("You entered: ", num);
-print("type of data: ", type(num));
+# num = int(input("Enter the number: "))
+# print("You entered: ", num);
+# print("type of data: ", type(num));
+
+print(5+6);
+print(7//2);
+print(7%2);
+print(2**3);
+
+num1=3;
+num2=8;
+print(num1-num2);
