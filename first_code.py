@@ -112,11 +112,20 @@
 # print("You entered: ", num);
 # print("type of data: ", type(num));
 
-print(5+6);
-print(7//2);
-print(7%2);
-print(2**3);
+# print(5+6);
+# print(7//2);
+# print(7%2);
+# print(2**3);
 
-num1=3;
-num2=8;
-print(num1-num2)
+# num1=3;
+# num2=8;
+# print(num1-num2)
+
+
+r=8;
+# r%=r;
+# print(r);
+
+t=10;
+t//=r;
+print(t);
