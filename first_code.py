@@ -128,4 +128,4 @@ r=8;
 
 t=10;
 t//=r;
-print(t)
+print(t);
