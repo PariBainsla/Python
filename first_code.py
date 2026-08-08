@@ -122,10 +122,16 @@
 # print(num1-num2)
 
 
-r=8;
+# r=8;
 # r%=r;
 # print(r);
 
-t=10;
-t//=r;
-print(t);
+# t=10;
+# t//=r;
+# print(t);
+
+
+a=8;
+b=7;
+# print(a<=b);
+print(a!=b);
