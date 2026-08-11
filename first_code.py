@@ -137,6 +137,15 @@
 # print(a!=b)
 
 
-a=6
-b=9
-print((a>2) and (b<2));
+# a=6
+# b=9
+# print((a>2) and (b<2));
+
+# a=7;
+# b=9;
+# c="pari";
+# d='bainsla';
+# e='pari';
+
+# print(c is not e);
+# print (a is b);
