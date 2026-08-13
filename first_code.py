@@ -159,4 +159,4 @@ x = int(input("Enter x: "));
 y = int(input("Enter y: "));
 result = (x<y)
 print(result)
-print(f"x<y => {result}")
+print(f"x<y => {result}");
