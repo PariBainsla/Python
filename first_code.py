@@ -150,7 +150,13 @@
 # print(c is not e);
 # print (a is b);
 
-a = 'pari';
-b = {1,2,3}
-print( 'p' in a);
-print (1 in b);
+# a = 'pari';
+# b = {1,2,3}
+# print( 'p' in a);
+# print (1 in b);
+
+x = int(input("Enter x: "));
+y = int(input("Enter y: "));
+result = (x<y)
+print(result)
+print(f"x<y => {result}")
