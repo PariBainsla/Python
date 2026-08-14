@@ -155,8 +155,13 @@
 # print( 'p' in a);
 # print (1 in b);
 
+# x = int(input("Enter x: "));
+# y = int(input("Enter y: "));
+# result = (x<y)
+# print(result)
+# print(f"x<y => {result}");
+
 x = int(input("Enter x: "));
 y = int(input("Enter y: "));
-result = (x<y)
-print(result)
-print(f"x<y => {result}");
+result = (x != y);
+print(f"x != y --> {result}")
