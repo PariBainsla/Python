@@ -161,7 +161,13 @@
 # print(result)
 # print(f"x<y => {result}");
 
-x = int(input("Enter x: "));
-y = int(input("Enter y: "));
-result = (x != y);
-print(f"x != y --> {result}")
+# x = int(input("Enter x: "));
+# y = int(input("Enter y: "));
+# result = (x != y);
+# print(f"x != y --> {result}")
+
+age = int(input("Enter the age: "));
+citizen = input("Indian Citizen (yes/no): ");
+
+result = (age>=18) and (citizen == "yes");
+print (result);
