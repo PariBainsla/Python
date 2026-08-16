@@ -166,8 +166,14 @@
 # result = (x != y);
 # print(f"x != y --> {result}")
 
-age = int(input("Enter the age: "));
-citizen = input("Indian Citizen (yes/no): ");
+# age = int(input("Enter the age: "));
+# citizen = input("Indian Citizen (yes/no): ");
 
-result = (age>=18) and (citizen == "yes");
-print (result);
+# result = (age>=18) and (citizen == "yes");
+# print (result);
+
+passcode = "1345"
+entered_code = input("Enter passcode: ");
+
+result = (passcode == entered_code);
+print(f"Is passcode == entered code? {result}");
