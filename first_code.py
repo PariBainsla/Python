@@ -178,5 +178,5 @@
 # result = (passcode == entered_code);
 # print(f"Is passcode == entered code? {result}");
 
-# result = (passcode != entered_code);
+# result = (passcode != entered_code)
 print(f"Is passcode not equal to entered code? {result}")
