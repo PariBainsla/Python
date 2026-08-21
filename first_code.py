@@ -182,3 +182,7 @@
 # print(f"Is passcode not equal to entered code? {result}")
 
 print(bool(0))
+print(bool(90))
+print(bool("pari"))
+print(bool("false"))
+print(bool(""))
