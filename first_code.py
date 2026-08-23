@@ -187,11 +187,16 @@
 # print(bool("false"))
 # print(bool(""))
 
-n = int(input("enter: "))
-if (n%2 != 0):
-    print ("Weird");
-elif(n%2==0 and 2<=n<=5):
-    print("Not Weird");
-elif(n%2==0 and 6<=n<=20):
-    print("Weird")
-else: print("Not Weird");
+# n = int(input("enter: "))
+# if (n%2 != 0):
+#     print ("Weird");
+# elif(n%2==0 and 2<=n<=5):
+#     print("Not Weird");
+# elif(n%2==0 and 6<=n<=20):
+#     print("Weird")
+# else: print("Not Weird")
+
+age = int(input("Enter your age: "))
+if (age>=18):
+    print("Allowed!")
+else : print("Restricted")
