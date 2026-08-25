@@ -198,5 +198,5 @@
 
 age = int(input("Enter your age: "))
 if (age>=18):
-    print("Allowed!")
+    print("Allowed!");
 else : print("Restricted");
