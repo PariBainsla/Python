@@ -1,3 +1,10 @@
+a = int(input("Enter a: "))
+b = int(input("Enter b: "))
+
+print(a+b)
+print(a-b)
+print(a*b)
+
 # print("Hello Pari")
 # print no
 # print(90)
@@ -196,7 +203,7 @@
 #     print("Weird")
 # else: print("Not Weird")
 
-age = int(input("Enter your age: "))
-if (age>=18):
-    print("Allowed!");
-else : print("Restricted");
+# age = int(input("Enter your age: "))
+# if (age>=18):
+#     print("Allowed!");
+# else : print("Restricted");
