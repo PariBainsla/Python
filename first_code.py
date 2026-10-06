@@ -1,9 +1,14 @@
-a = int(input("Enter a: "))
-b = int(input("Enter b: "))
+a = int(input("enter age: "))
+if(a<=18) : print("not eligible for driving")
 
-print(a+b)
-print(a-b)
-print(a*b)
+else : print("eligible")
+
+# a = int(input("Enter a: "))
+# b = int(input("Enter b: "))
+
+# print(a+b)
+# print(a-b)
+# print(a*b)
 
 # print("Hello Pari")
 # print no
