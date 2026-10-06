@@ -1,8 +1,11 @@
-a = int(input("enter a: "))
-if(a<18): 
-    if(a<0): print("invalid")
-    else : print ("okay")
-else : print("a>18")
+age = (int(input("enter age: ")))
+print ("Adult") if age>=18 else print ("minor")
+
+# a = int(input("enter a: "))
+# if(a<18): 
+#     if(a<0): print("invalid")
+#     else : print ("okay")
+# else : print("a>18")
 
 # age = (int(input("Enter age: ")))
 # if (age<0) : print("no")
