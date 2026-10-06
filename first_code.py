@@ -1,12 +1,17 @@
-firstname_db = "pari"
-lastname_db = "bainsla"
+age = (int(input("Enter age: ")))
+if (age<0) : print("no")
+elif(age<=18) : print("maybe")
+else : print("yes")
 
-firstname = input("enter firstname: ")
-lastname = input("enter lastname: ")
+# firstname_db = "pari"
+# lastname_db = "bainsla"
 
-if(firstname == firstname_db) and (lastname == lastname_db) : print("lovely")
+# firstname = input("enter firstname: ")
+# lastname = input("enter lastname: ")
 
-else : print("retry")
+# if(firstname == firstname_db) and (lastname == lastname_db) : print("lovely")
+
+# else : print("retry")
 
 # a = int(input("enter age: "))
 # if(a<=18) : print("not eligible for driving")
