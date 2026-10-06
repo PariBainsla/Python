@@ -1,5 +1,13 @@
-age = (int(input("enter age: ")))
-print ("Adult") if age>=18 else print ("minor")
+n1 = int(input("n1: "))
+n2 = int(input("n2: "))
+n3 = int(input("n3: "))
+if (n1>=n2) and (n1>=n3) : largest = n1
+elif (n2>=n1) and (n2>=n3) : largest = n2
+else : largest = n3
+print('largest no. is: ', largest)
+
+# age = (int(input("enter age: ")))
+# print ("Adult") if age>=18 else print ("minor")
 
 # a = int(input("enter a: "))
 # if(a<18): 
