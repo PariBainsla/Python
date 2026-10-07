@@ -1,6 +1,11 @@
-language = "python"
-for letter in language:
-    print(letter)
+a = int(input("enter a: "))
+b = int(input("enter b: "))
+print(a//b)
+print(a/b)
+
+# language = "python"
+# for letter in language:
+#     print(letter)
 
 # for i in range(12,17):
 #     print(f"no. is {i}")
