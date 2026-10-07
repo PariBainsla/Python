@@ -1,8 +1,15 @@
-nums = [1,2,3]
-for ber in nums:
-    print("process:", ber)
-    print("done:", ber)
-print("all done")
+language = "python"
+for letter in language:
+    print(letter)
+
+# for i in range(12,17):
+#     print(f"no. is {i}")
+
+# nums = [1,2,3]
+# for ber in nums:
+#     print("process:", ber)
+#     print("done:", ber)
+# print("all done")
 
 # models = ["fable", "gemini", "claude"]
 # for model in models:
