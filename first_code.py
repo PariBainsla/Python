@@ -1,6 +1,12 @@
-models = ["fable", "gemini", "claude"]
-for model in models:
-    print(model)
+nums = [1,2,3]
+for ber in nums:
+    print("process:", ber)
+    print("done:", ber)
+print("all done")
+
+# models = ["fable", "gemini", "claude"]
+# for model in models:
+#     print(model)
 
 # n1 = int(input("n1: "))
 # n2 = int(input("n2: "))
