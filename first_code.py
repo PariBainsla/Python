@@ -1,7 +1,12 @@
-a = int(input("enter a: "))
-b = int(input("enter b: "))
-print(a//b)
-print(a/b)
+for num in range(1,11):
+    if num ==5:
+        break
+    print(num)
+
+# a = int(input("enter a: "))
+# b = int(input("enter b: "))
+# print(a//b)
+# print(a/b)
 
 # language = "python"
 # for letter in language:
