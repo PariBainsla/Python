@@ -1,7 +1,12 @@
 for num in range(1,11):
-    if num ==5:
-        break
+    if num == 7:
+        continue
     print(num)
+
+# for num in range(1,11):
+#     if num ==5:
+#         break
+#     print(num)
 
 # a = int(input("enter a: "))
 # b = int(input("enter b: "))
