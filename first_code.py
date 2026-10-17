@@ -1,7 +1,11 @@
-for num in range(1,11):
-    if num == 7:
-        continue
-    print(num)
+n = int(input("enter n: "))
+for num in range (0,n):
+    print(n*n)
+
+# for num in range(1,11):
+#     if num == 7:
+#         continue
+#     print(num)
 
 # for num in range(1,11):
 #     if num ==5:
