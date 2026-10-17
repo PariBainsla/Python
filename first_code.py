@@ -1,6 +1,10 @@
-n = int(input("enter n: "))
-for num in range (0,n):
-    print(n*n)
+n = int(input())
+for num in range(0,n):
+    print(num*num)
+
+# n = int(input("enter n: "))
+# for num in range (0,n):
+#     print(n*n)
 
 # for num in range(1,11):
 #     if num == 7:
