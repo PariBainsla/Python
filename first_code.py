@@ -1,6 +1,11 @@
 n = int(input())
-for num in range(0,n):
-    print(num*num)
+if n/4 : print("True")
+elif n/100 : print("False")
+else n/400 : print("True")
+
+# n = int(input())
+# for num in range(0,n):
+#     print(num*num)
 
 # n = int(input("enter n: "))
 # for num in range (0,n):
