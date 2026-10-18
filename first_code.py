@@ -1,7 +1,8 @@
 n = int(input())
-if n/4 : print("True")
-elif n/100 : print("False")
-else n/400 : print("True")
+if n%400==0 : print("True")
+elif n%100==0 : print("False")
+elif n%4==0 : print("True")
+else : print("False")
 
 # n = int(input())
 # for num in range(0,n):
