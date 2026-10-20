@@ -1,19 +1,23 @@
-def is_leap(year):
-    leap = False
-    
-    if year%400==0 :
-        leap = True
-    elif year%100==0 : 
-        leap = False
-    elif year%4==0 :
-        leap = True
-    else :
-        leap = False
-    
-    return leap
+n = int(input())
+for num in range (1,n+1):
+    print num, num +1, ..., num+n-1
 
-year = int(input())
-print(is_leap(year))
+# def is_leap(year):
+#     leap = False
+    
+#     if year%400==0 :
+#         leap = True
+#     elif year%100==0 : 
+#         leap = False
+#     elif year%4==0 :
+#         leap = True
+#     else :
+#         leap = False
+    
+#     return leap
+
+# year = int(input())
+# print(is_leap(year))
 
 # n = int(input())
 # if n%400==0 : print("True")
