@@ -1,6 +1,6 @@
 n = int(input())
 for num in range (1,n+1):
-    print num, num +1, ..., num+n-1
+    print(n, end="")
 
 # def is_leap(year):
 #     leap = False
